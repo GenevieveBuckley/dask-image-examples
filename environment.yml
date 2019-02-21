@@ -8,3 +8,5 @@ dependencies:
   - python-graphviz
   - scikit-image
   - matplotlib
+  - zarr
+
